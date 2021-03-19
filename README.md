@@ -3,7 +3,7 @@ This code is focused on the application of a certain ML algorithms in a specific
 
 # Steps to execute the algorithm
 1. First of all, install the necessary libraries in a virtual environment. For that, use the requirements.txt file uploaded on this project.
-2. Then, examine the main file (static_GP.py), specially the lines from 40-59. These lines describe the flags to execute the different scenario developed for this project. Mainly, to execute the usual scenario to static field (the sensores are always in the same position) along with the time, you shall select the option '1' in the first position in line 58 and the option '1' in the third position. On the other hand, if you want to analyze the recursive scenario, you shall set the option '2' in the first position and the option '1' in the fourth position. The remaining paramaters can be set by default or you can change to study the different scenarios. 
+2. Then, examine the main file (principal.py), specially the lines from 40-59. These lines describe the flags to execute the different scenario developed for this project. Mainly, to execute the usual scenario to static field (the sensores are always in the same position) along with the time, you shall select the option '1' in the first position in line 58 and the option '1' in the third position. On the other hand, if you want to analyze the recursive scenario, you shall set the option '2' in the first position and the option '1' in the fourth position. The remaining paramaters can be set by default or you can change to study the different scenarios. 
 3. Save the generated graphics and analize the result. 
 
 # Code analysis
